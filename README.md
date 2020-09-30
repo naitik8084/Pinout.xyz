@@ -1,4 +1,4 @@
-# Pinout.xyz
+# Pinout. xyz 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
@@ -10,7 +10,7 @@ This license excludes the 'pinout-graphic-horizontal' files located in the `grap
 
 This license also excludes all board photography which is pinched from various sources in the hope that using it for documentation/promotional purposes will not raise any hackles.
 
-# About this project
+# About this project:-
 
 The contents of this GitHub repository are used to build http://pinout.xyz and its translated subdomains.
 
